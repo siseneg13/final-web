@@ -1,0 +1,25 @@
+body{
+  background-color: aqua;
+}
+h1{
+  text-align: center;
+  margin-top: 30%;
+  font-size: 75px;
+  color: rgb(242, 12, 215);
+  background-color: aquamarine;
+  border: 5px solid blanchedalmond;
+  border-radius: 50px;
+
+}
+h2{
+  text-align: center;
+  color: rgb(25, 55, 226);
+  background-color: rgb(116, 245, 202);
+  border-radius: 20px;
+}
+p{
+  text-align: center;
+  color: rgb(25, 55, 226);
+  background-color: rgb(116, 245, 202);
+  border-radius: 10px;
+}
